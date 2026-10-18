@@ -1,0 +1,14 @@
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.env
+.env.*
+*.log
+*.tmp
+*.part
+*.zip
+vendor/
+node_modules/
+tests/*.mp4
+tests/*.m4a
